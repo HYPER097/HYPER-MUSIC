@@ -118,15 +118,15 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ai_image_junction"
-)  # Example:- https://t.me/ai_image_junction
+    "SUPPORT_CHANNEL", "https://t.me/Feeling_smiley"
+)  # Example:- https://t.me/ll_DEVIL_VENOM_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/+7ehnJA3aMb84OGNl"
-)  # Example:- https://t.me/+7ehnJA3aMb84OGNl
+    "SUPPORT_GROUP", "https://t.me/Friendship_Club_Group"
+)  # Example:- https://t.me/ll_DEVIL_VENOM_ll
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/+7ehnJA3aMb84OGNl"
-)  # Example:- https://t.me/+7ehnJA3aMb84OGNl
+    "SUPPORT_GROUP", "https://t.me/Friendship_Club_Group"
+)  # Example:- https://t.me/ll_DEVIL_VENOM_ll
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -221,12 +221,12 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/nAT.jpg",
+    "https://graph.org/file/2863ab953b2678a71c7f9-e108777093db07d2ec.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://graph.org/file/0f5f73d4baf06f074392a-bae91b2969300b3567.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(

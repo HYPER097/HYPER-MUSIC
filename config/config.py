@@ -28,7 +28,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 
-# Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
+# Database to save your chats and stats... Get MongoDB:-  
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 
